@@ -1,0 +1,3 @@
+[submodule "cycaz/core"]
+	path = core
+	url = git://github.com/cycaz/core.git
